@@ -1,7 +1,9 @@
 <img align="right" src="https://media.licdn.com/dms/image/v2/D5616AQFqse_ZDvdO2A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730922050229?e=1739404800&v=beta&t=c_HIChU_ywwr-qqzQe9SBVnj24vmBtfyQjxWJTfHq1M" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Royal Prince</h1>
 
 <h3 align="center">💻 IT Professional | 6+ years in IT | 2+ years Python | 3+ years Front-End Dev 🌟 Data Science enthusiast | Passionate about leveraging data for insights | Actively seeking a Data Science internship! 🚀.</h3>
+
 <img align="right" src="https://user-images.githubusercontent.com/115187902/230603133-52eedb90-6313-41ef-86a6-122ec3848e19.gif" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=royalprince21&label=Profile%20views&color=0e75b6&style=flat" alt="royalprince21" /> </p>
