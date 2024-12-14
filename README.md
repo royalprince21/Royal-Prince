@@ -5,9 +5,10 @@
 <img align="right" src="https://user-images.githubusercontent.com/115187902/230603133-52eedb90-6313-41ef-86a6-122ec3848e19.gif" width="500" />
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=royalprince21&label=Profile%20views&color=0e75b6&style=flat" alt="royalprince21" /></p>
-
 - 🔭 I’m currently working on **Diabetes Prediction** - 🌱 I’m currently learning **Data Science and Artificial Intelligence** - 💬 Ask me about **React Js, Python, Artificial Intelligence, Machine Learning, Deep Learning, and Data
-Visualization.** - 📫 How to reach me **royalprince1995@gmail.com** - 😄 Pronouns: He/Him
+Visualization.**
+- 📫 How to reach me **royalprince1995@gmail.com** 
+- 😄 Pronouns: He/Him
 
 <p align="left"></p>
 
