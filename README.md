@@ -1,9 +1,6 @@
 # Royal-Prince
 <img align="right" src="https://media.licdn.com/dms/image/v2/D5616AQFqse_ZDvdO2A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730922050229?e=1739404800&v=beta&t=c_HIChU_ywwr-qqzQe9SBVnj24vmBtfyQjxWJTfHq1M" width="100%" />
 <h1 align="center">Hi 👋, I'm Royal Prince</h1>
-<div class="typewriter">
-  <h1>Hi 👋, I'm Royal Prince</h1>
-</div>
 <h3 align="center">💻 IT Professional | 6+ years in IT | 2+ years Python | 3+ years Front-End Dev 🌟 Data Science enthusiast | Passionate about leveraging data for insights | Actively seeking a Data Science internship! 🚀.</h3>
 <img align="right" src="https://user-images.githubusercontent.com/115187902/230603133-52eedb90-6313-41ef-86a6-122ec3848e19.gif" width="500" />
 
@@ -56,33 +53,7 @@ Visualization.** - 📫 How to reach me **royalprince1995@gmail.com** - 😄 Pro
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=royalprince21&show_icons=true&locale=en" alt="royalprince21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=royalprince21&" alt="royalprince21" /></p>
-<style>
-/* GLOBAL STYLES */
-body {
-  background: #333;
-  padding-top: 5em;
-  display: flex;
-  justify-content: center;
-}
-/* DEMO-SPECIFIC STYLES */
-.typewriter h1 {
-  color: #fff;
-  font-family: monospace;
-  overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: .15em solid orange; /* The typwriter cursor */
-  white-space: nowrap; /* Keeps the content on a single line */
-  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
-  letter-spacing: .15em; /* Adjust as needed */
-  animation: 
-    typing 3.5s steps(30, end),
-    blink-caret .5s step-end infinite;
-}
-/* The typing effect */
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-/* The typewriter cursor effect */
+
 @keyframes blink-caret {
   from, to { border-color: transparent }
   50% { border-color: orange }
