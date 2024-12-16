@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React Js, Python, Artificial Intelligence, Machine Learning, Deep Learning, and Data Visualization.**
 
-- 📫 How to reach me **
+- 📫 How to reach me**
 
 <div align="center"> 
   <a href="mailto:royalprince1995@gmail.com">
