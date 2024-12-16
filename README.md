@@ -1,4 +1,6 @@
 <img align="right" src="https://media.licdn.com/dms/image/v2/D5616AQFqse_ZDvdO2A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730922050229?e=1739404800&v=beta&t=c_HIChU_ywwr-qqzQe9SBVnj24vmBtfyQjxWJTfHq1M" width="100%" />
+<img align="right" src="https://browsejobs.in/wp-content/uploads/al_opt_content/IMAGE/browsejobs.in/wp-content/uploads/2024/07/f1342400-cbd9-11eb-84d5-36d6ce41d01a.png.bv_resized_desktop.png.bv.webp" width="100%" />
+
 
 
 <h1 align="center">Hi 👋, I'm Royal Prince</h1>
