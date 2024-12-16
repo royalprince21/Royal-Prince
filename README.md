@@ -1,4 +1,4 @@
-<img src="https://news-bucket-sj19asxm-prod.s3.ap-southeast-1.amazonaws.com/24573efc-2244-4093-8960-391483e6024c/24573efc-2244-4093-8960-391483e6024c.png" width="100%"  height="100vh"/>
+<img src="https://news-bucket-sj19asxm-prod.s3.ap-southeast-1.amazonaws.com/24573efc-2244-4093-8960-391483e6024c/24573efc-2244-4093-8960-391483e6024c.png" width="100%"  height="800"/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Royal+Prince!;" />
 </h1>
