@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Royal Prince</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Royal+Prince!;" />
+</h1>
+
 
 <h3 align="center">💻 IT Professional | 6+ years in IT | 2+ years Python | 3+ years Front-End Dev 🌟 Data Science enthusiast | Passionate about leveraging data for insights | Actively seeking a Data Science internship! 🚀.</h3>
 
