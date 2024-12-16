@@ -3,7 +3,7 @@
 </h1>
 
 
-<h3 align="center">💻 IT Professional | 6+ years in IT | 2+ years Python | 3+ years Front-End Dev 🌟 Data Science enthusiast | Passionate about leveraging data for insights | Actively seeking a Data Science internship! 🚀.</h3>
+<h3 align="center">📊 Seeking Data Science Internship | 🎓 Student at DSTI School of Engineering | Experienced in ⚛️ Front-End Development & 🐍 Python Development!</h3>
 
 <img align="right" src="https://user-images.githubusercontent.com/115187902/230603133-52eedb90-6313-41ef-86a6-122ec3848e19.gif" width="400" />
 
