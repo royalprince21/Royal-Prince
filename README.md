@@ -21,7 +21,7 @@
 <p align="left">
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
