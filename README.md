@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5612AQFhbGfQlTwJQA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1684380897420?e=2147483647&v=beta&t=I4lAsx34IinhnlidHiisPJy4P7TYl65j1pes6IvzJ8M" width="100%"  height="300"/>
+<img src="https://news-bucket-sj19asxm-prod.s3.ap-southeast-1.amazonaws.com/24573efc-2244-4093-8960-391483e6024c/24573efc-2244-4093-8960-391483e6024c.png" width="100%"  height="300"/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Royal+Prince!;" />
 </h1>
