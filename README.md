@@ -53,7 +53,7 @@
   </a>
     
   <a>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZyggfIXgL7LDWEU4pX50EP0QsTxIFVlEl4A&s" alt="bootstrap" width="50" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png" alt="bootstrap" width="50" height="40" />
   </a>
     
   <a>
