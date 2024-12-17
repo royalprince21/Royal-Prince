@@ -82,6 +82,9 @@
   <a>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8ifS9JhAXbYr8Lm9vD9uiduVwFm4JxsheXQ&s" alt="github" width="40" height="40" />
  </a>  
+     <a>
+    <img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" alt="github" width="40" height="40" />
+ </a>  
      <br />
 <a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
