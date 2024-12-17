@@ -76,7 +76,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
   </a>
   <a>
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="40" height="40" />
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-github-logo-icon-download-in-svg-png-gif-file-formats--brand-social-media-pack-logos-icons-47401.png" alt="github" width="40" height="40" />
   </a>
   <a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
