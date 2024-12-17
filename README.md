@@ -83,7 +83,7 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8ifS9JhAXbYr8Lm9vD9uiduVwFm4JxsheXQ&s" alt="github" width="40" height="40" />
  </a>  
      <a>
-    <img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" alt="github" width="40" height="40" />
+    <img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" alt="power bi" width="30" height="40" />
  </a>  
      <br />
 <a>
