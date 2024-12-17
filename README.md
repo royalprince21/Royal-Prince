@@ -77,19 +77,17 @@
   </a>
   <a>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8ifS9JhAXbYr8Lm9vD9uiduVwFm4JxsheXQ&s" alt="github" width="40" height="40" />
+ </a>
     <a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+  </a>
+    <a>
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
   </a>
   <a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
   </a>
-   <a>
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
-  </a>
-  
-  
-  </a>
-  <a>
+    <a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
   </a>
   <a>
