@@ -39,6 +39,9 @@
 <br/>
 
 <p align="center">
+     <a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Adobe_Photoshop_CS6_icon.svg" alt="photoshop" width="40" height="40" />
+  </a>
   <a>
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
   </a>
@@ -102,11 +105,6 @@
   </a>
   <a>
     <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="numpy" width="40" height="40" />
-  </a>
-
-    
-  <a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
   </a>
   <a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
