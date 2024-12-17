@@ -135,7 +135,7 @@
     <img src="https://awsmp-logos.s3.amazonaws.com/304bf786-2bd9-4c7c-ae65-8564a4debd6a/bb93d241691595c07cb96277299ee4da.png" alt="sas" width="50" height="20" />
  </a>
      <a>
-    <img src="https://mma.prnewswire.com/media/2047144/Neo4j_logo_color_Logov1.jpg?p=facebook" alt="neo4j" width="60" height="30" />
+    <img src="https://mma.prnewswire.com/media/2047144/Neo4j_logo_color_Logov1.jpg?p=facebook" alt="neo4j" width="60" height="40" />
  </a>
 </p>
 
