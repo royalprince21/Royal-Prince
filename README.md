@@ -80,9 +80,7 @@
   </a>
   <a>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8ifS9JhAXbYr8Lm9vD9uiduVwFm4JxsheXQ&s" alt="github" width="40" height="40" />
- </a>
-<br />
-      
+ </a>      
 <a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
   </a>
@@ -95,8 +93,9 @@
     <a>
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
   </a>
+    <br />
     <a>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSObhWW7gEGNs1r3kbEXIeWuIDC74C6p5RVQ&s" alt="aws" width="40" height="40" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSObhWW7gEGNs1r3kbEXIeWuIDC74C6p5RVQ&s" alt="aws" width="50" height="40" />
   </a>
   <a>
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
